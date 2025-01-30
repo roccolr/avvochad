@@ -1,5 +1,5 @@
 # avvochad
-avvochad è un'applicazione che permette di tradurre un testo amministrativo o giuridico in un altro testo il cui lessico è più comune e alla portata di tutti.
+avvochad è un'applicazione che permette di tradurre un testo amministrativo/giuridico o una serie di testi, separati dal carattere #, in un altro testo il cui lessico è più comune e alla portata di tutti.
 
 
 ## Quick start
